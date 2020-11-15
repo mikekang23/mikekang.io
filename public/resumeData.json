@@ -1,163 +1,94 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "name":"Mike Kang",
+    "occupation":"Software Engineering Intern and CS student",
+    "description":"",
+    "image":"mike1.png",
+    "bio":"After co-founding a $1 million-funded startup (Nerdstudy), and working as a Product Manager (Quartermaster), I've returned to my CS studies at the University of Toronto to pursue my passion: Technology. If you're looking for an intern in Software Engineering or Product Management, I'd love to be in touch!",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "mike.kang@mail.utoronto.ca",
+    "phone": "M5V 0L4",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city":"Toronto",
+      "state":"Ontario"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://mikekang.io",
+    "resumedownload":"http://mikekang.io/resume",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/mike-kang-26235756",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com/mikekang23",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Currently focusing on Javascript (Node.js, React) along with Sequelize.js ORM and MySQL. I am also working on getting more experience with Python as well!",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University of Toronto",
+        "degree":"B.Sc Computer Science",
+        "graduated":"December 2022 Expected",
+        "description":""
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Nerdstudy",
+        "title":"Software Developer | Co-founder",
+        "years":"March 2019 - Aug 2020",
+        "description": "Achieved 20k+ users and delivered more than 13 million lesson minutes. I coded the front+backend with LAMP stack and deployed it through Amazon EC2."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Quartermaster",
+        "title":"Product Manager",
+        "years":"Aug 2018 - February 2019",
+        "description":"Launched web+mobile app into 50+ street communities, with over 3k Homeowners and 1k Businesses."
+      },
+      {
+        "company":"Nerdstudy",
+        "title":"CEO | Co-founder",
+        "years":"March 2019 - Aug 2020",
+        "description": "We raised $1 million in equity funding. We achieved an average session duration of users of 9+ minutes, and achieved a Gross Sales (all-time) of $100k. I took on a Product role for a few years, and later switched into a Software role."
       }
     ],
     "skills":[
-      {
-        "name":"Git",
-        "level":"60%"
-      },
-      {
-        "name":"Illustrator",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"HTML5",
-        "level":"80%"
-      },
-      {
-        "name":"VueJs",
-        "level":"50%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
-      }
+
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Nerdstudy | Edu-tech, LMS",
+        "category":"My edu-tech startup, using Laravel, Vue.js, PHP, Apache, MySQL, and Stripe Integration",
+        "image":"nerdstudy.png",
+        "url":"https://nerdstudy.com"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Gingerale | Chat App",
+        "category":"Work-in-progress chat app with socket.io, node.js, react",
+        "image":"gingerale.png",
+        "url":"https://gingerale.io"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Merely | Product Board",
+        "category":"I got tired of spending money on Monday.com. So now I'm building a simple product board through MERN stack.",
+        "image":"merely.png",
+        "url":"https://github.com/mikekang23/merely"
       }
+
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
-      },
-      {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"I reference Mike Kang on a frequent enough basis in my daily work life that he has taken on somewhat mythical status among my teammates and peers. I had never before and have never since worked with someone who has such singular mission drive and such uncompromising standards for high quality in deliveries. Mike expects success to be a painfully earned process and he dedicates himself to the fine details of that process. He brings a work cadence and a clarity of purpose that makes the people around him better. He brings focused intensity and a palpable passion for accomplishment. He brings his full self (in popular usage: “full kang”) and that includes a dedication for outcomes that goes beyond the workplace. I think he would show up for any teammate at any time of need.",
+        "user":"Michael Phillips | CEO & Co-founder Quartermaster"
       }
     ]
   }
