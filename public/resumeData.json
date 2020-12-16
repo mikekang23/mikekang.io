@@ -18,7 +18,7 @@
     "social":[
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/mike-kang-26235756",
+        "url":"https://www.linkedin.com/in/mikekang23",
         "className":"fa fa-linkedin"
       },
       {
@@ -33,29 +33,39 @@
     "education":[
       {
         "school":"University of Toronto",
-        "degree":"B.Sc Computer Science",
+        "degree":"B.Sc. Computer Science",
         "graduated":"December 2022 Expected",
         "description":""
       }
     ],
     "work":[
       {
+        "company":"Blaise (Techstars '19)",
+        "title":"Incoming Software Engineering Intern",
+        "years":"Starting Jan 2021",
+        "description": "I will be working in the winter-term on developing features for web/mobile (full stack) using Node.js, React/Redux, React Native, MySQL, and Java for Android",
+        "href": "https://blaisetransit.com"
+      },
+      {
         "company":"Nerdstudy",
-        "title":"Software Developer | Co-founder",
+        "title":"Software Developer",
         "years":"March 2019 - Aug 2020",
-        "description": "Achieved 20k+ users and delivered more than 13 million lesson minutes. I coded the front+backend with LAMP stack and deployed it through Amazon EC2."
+        "description": "Gained 22k+ users and delivered 13+ million lesson minutes. I coded the front+backend with LAMP stack and deployed it through Amazon EC2.",
+        "href": "https://nerdstudy.com"
       },
       {
         "company":"Quartermaster",
         "title":"Product Manager",
         "years":"Aug 2018 - February 2019",
-        "description":"Launched web+mobile app into 50+ street communities, with over 3k Homeowners and 1k Businesses."
+        "description":"Launched web+mobile app into 50+ street communities, with over 3k Homeowners and 1k Businesses.",
+        "href": "https://quartermaster.house"
       },
       {
         "company":"Nerdstudy",
         "title":"CEO | Co-founder",
         "years":"March 2019 - Aug 2020",
-        "description": "We raised $1 million in equity funding. We achieved an Average Session Duration of 9+ minutes, and achieved a Gross Sales (all-time) of $100k. I took on a Product role for a few years, and later switched into a Software role."
+        "description": "We raised $1 million in equity funding. We achieved an Average Session Duration of 11+ minutes, and achieved a Gross Sales (all-time) of $100k. In 2014, I stopped my CS education to pursue Nerdstudy. I returned to complete my education in 2019/2020.",
+        "href": "https://nerdstudy.com"
       }
     ],
     "skills":[
