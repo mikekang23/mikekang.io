@@ -41,9 +41,16 @@
     "work":[
       {
         "company":"Blaise (Techstars '19)",
-        "title":"Incoming Software Engineering Intern",
-        "years":"Starting Jan 2021",
-        "description": "I will be working in the winter-term on developing features for web/mobile (full stack) using Node.js, React/Redux, React Native, MySQL, and Java for Android",
+        "title":"Software Engineering Intern",
+        "years":"Jan 2021 - Present",
+        "description": "Coding features for web/mobile (full stack) using Node.js, React/Redux, React Native, MySQL, and Java for Android",
+        "href": "https://blaisetransit.com"
+      },
+      {
+        "company":"University of Toronto Markus Team",
+        "title":"Software Developer and Open Source Contributor",
+        "years":"Jan 2021 - Present",
+        "description": "Developer for MarkUs, a software product (led by Professor David Liu) that is used by multiple universities to organize classroom management. Tech-stack: Ruby, Python, React.js, SQL",
         "href": "https://blaisetransit.com"
       },
       {

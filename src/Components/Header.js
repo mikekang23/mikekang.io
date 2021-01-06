@@ -34,9 +34,9 @@ class Header extends Component {
          <div className="banner-text">
             <h1 className="responsive-headline">I'm Mike Kang.</h1>
 
-              <h3><span>Computer Science Student</span> @
+              <h3><span>CS Student</span> @
                 <span> University of Toronto</span><br/>
-                <span>Incoming Software Engineering Intern</span> @
+                <span>Software Engineering Intern</span> @
                 <span> <a href="https://blaisetransit.com">Blaise</a></span>
               </h3>
             <hr />
