@@ -37,7 +37,7 @@ class Header extends Component {
               <h3><span>CS Student</span> @
                 <span> University of Toronto</span><br/>
                 <span>Software Engineering Intern</span> @
-                <span> <a href="https://blaisetransit.com">Blaise</a></span>
+                <span> <a href="https://blaisetransit.com">Blaise (Techstars '19)</a></span>
               </h3>
             <hr />
             <ul className="social">
